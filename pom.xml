@@ -21,7 +21,7 @@
 
 	  <resources>
       <resource>
-        <directory>src/main/java/resources</directory>
+        <directory>src/main/java/</directory>
         <filtering>true</filtering>
       </resource>
     </resources>
@@ -107,5 +107,6 @@
 
 	
 </project>
+
 
 
