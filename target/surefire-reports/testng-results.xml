@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-20T13:08:24 IST" name="Surefire suite" finished-at="2025-11-20T13:08:40 IST" duration-ms="15684">
+    <groups>
+    </groups>
+    <test started-at="2025-11-20T13:08:24 IST" name="Surefire test" finished-at="2025-11-20T13:08:40 IST" duration-ms="15684">
+      <class name="vigneshkumar.LoginPageTest">
+        <test-method signature="checkPage()[pri:0, instance:vigneshkumar.LoginPageTest@12b0404f]" started-at="2025-11-20T13:08:24 IST" name="checkPage" finished-at="2025-11-20T13:08:36 IST" duration-ms="11379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkPage -->
+        <test-method signature="openPage()[pri:0, instance:vigneshkumar.LoginPageTest@12b0404f]" started-at="2025-11-20T13:08:36 IST" name="openPage" finished-at="2025-11-20T13:08:40 IST" duration-ms="4245" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openPage -->
+      </class> <!-- vigneshkumar.LoginPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
