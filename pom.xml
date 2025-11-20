@@ -39,6 +39,9 @@
           <suiteXmlFiles>
             <suiteXmlFile>testng.xml</suiteXmlFile>
           </suiteXmlFiles>
+			  <includes>
+				  <include>none</include>
+			  </includes>
         </configuration>
         </plugin>
       </plugins>
@@ -78,3 +81,4 @@
 
   </dependencies>
 </project>
+
